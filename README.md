@@ -40,7 +40,7 @@ I am Mokhamad Asif! I am interest on laravel, livewire and make them easy 😄
 ## Tech & Tools
 ### Web
 
-[![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=nextjs&logoColor=white)](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
