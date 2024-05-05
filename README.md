@@ -27,7 +27,7 @@ I am Mokhamad Asif! I am interest on laravel, livewire and make them easy 😄
 
 
 [//]: # (-->)
-- <img align="center" src="https://deskteam360.com/storage/2018/06/deskteam360-favicon-100x100.png" /> I’m currently working on <a href="https://deskteam360.com/">Deskteam360</a>
+- <img align="center" src="https://deskteam360.com/storage/2018/06/deskteam360-favicon-100x100.png" style="width:10" /> I’m currently working on <a href="https://deskteam360.com/">Deskteam360</a>
 - 🌱 I’m currently learning and loving <a href="https://laravel.com">Laravel</a>
 
 ## Stats
