@@ -1,9 +1,7 @@
 ### Hello 👋
-I am Mokhamad Asif! I am interest on laravel, livewire and make them easy 😄 
+I am Mokhamad Asif! I am love coding and this place is for my code plant and grow 😄 
 
 [//]: # (<!--)
-
-[//]: # (**geofany/geofany** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
 [//]: # ()
 [//]: # (Here are some ideas to get you started:)
@@ -27,7 +25,7 @@ I am Mokhamad Asif! I am interest on laravel, livewire and make them easy 😄
 
 
 [//]: # (-->)
-- <img align="center" src="https://deskteam360.com/storage/2018/06/deskteam360-favicon-100x100.png" style="width:20px" /> I’m currently working on <a href="https://deskteam360.com/">Deskteam360</a>
+- <img align="center" src="https://deskteam360.com/wp-content/uploads/2018/06/deskteam360-favicon-100x100.png" style="width:20px" /> I’m currently working on <a href="https://deskteam360.com/">Deskteam360</a>
 - 🌱 I’m currently learning and loving <a href="https://laravel.com">Laravel</a>
 
 ## Stats
